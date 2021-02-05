@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "application": {
+        "startTime": 20180101,
+        "endTime": 20181231,
+        "visit-interval": 2,
+        "visit-interval-error": 180
+    }
+}
